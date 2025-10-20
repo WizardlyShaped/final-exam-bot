@@ -17,7 +17,7 @@ const requiredRoles = [
   "1429726577305976854",
 ];
 
-const finalExamRole = "ROLE_ID_FINAL";
+const finalExamRole = "1429727641161961553";
 
 client.once("ready", () => {
   console.log(`✅ Logged in as ${client.user.tag}`);
