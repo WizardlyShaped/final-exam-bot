@@ -9,12 +9,12 @@ const client = new Client({
 });
 
 const requiredRoles = [
-  "ROLE_ID_GKC",
-  "ROLE_ID_GC",
-  "ROLE_ID_SC",
-  "ROLE_ID_PT",
-  "ROLE_ID_FT",
-  "ROLE_ID_CE",
+  "1429726403842277441",
+  "1429726423110914110",
+  "1429726475535257621",
+  "1429726504073564311",
+  "1429726544506388651",
+  "1429726577305976854",
 ];
 
 const finalExamRole = "ROLE_ID_FINAL";
